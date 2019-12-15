@@ -1,0 +1,25 @@
+/* COLORS */
+/* TEXT */
+.text-granate {
+  color: #b03648 !important;
+}
+
+.text-granate-light {
+  color: #cb5566 !important;
+}
+
+.text-granate-dark {
+  color: #8d2b3a !important;
+}
+/* BG */
+.bg-granate {
+  background-color: #b03648 !important;
+}
+
+.bg-granate-light {
+  background-color: #cb5566 !important;
+}
+
+.bg-granate-dark {
+  background-color: #8d2b3a !important;
+}
