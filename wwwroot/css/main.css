@@ -23,6 +23,71 @@
 .bg-granate-dark {
   background-color: #8d2b3a !important;
 }
+
+.bg-principal {
+  background-color: #f2f3f4 !important;
+}
+
+.bg-primario {
+  background-color: #0072bb !important;
+}
+
+.bg-exito {
+  background-color: #2e7d33 !important;
+}
+
+.bg-peligro {
+  background-color: #c62828 !important;
+}
+
+.bg-alerta {
+  background-color: #f9a822 !important;
+}
+
+.bg-informacion {
+  background-color: #2897d4 !important;
+}
+
+.bg-fucsia {
+  background-color: #ec407a !important;
+}
+
+.bg-arandano {
+  background-color: #c2185b !important;
+}
+
+.bg-uva {
+  background-color: #6a1b99 !important;
+}
+
+.bg-cielo {
+  background-color: #039be5 !important;
+}
+
+.bg-verdin {
+  background-color: #6ea100 !important;
+}
+
+.bg-lima {
+  background-color: #cddc39 !important;
+}
+
+.bg-maiz {
+  background-color: #ffce00 !important;
+}
+
+.bg-tomate {
+  background-color: #ef5350 !important;
+}
+
+.bg-naranja-dark {
+  background-color: #ef6c00 !important;
+}
+
+.bg-verde-azulado {
+  background-color: #008388 !important;
+}
+
 /* CARD */
 .card-header-height {
   height: 150px !important;
