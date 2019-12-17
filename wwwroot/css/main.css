@@ -23,3 +23,7 @@
 .bg-granate-dark {
   background-color: #8d2b3a !important;
 }
+/* CARD */
+.card-header-height {
+  height: 150px !important;
+}
