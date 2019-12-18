@@ -24,17 +24,32 @@
     <!-- <link rel="stylesheet" href="wwwroot/lib/poncho/dist/css/poncho.min.css"> -->
     <link rel="stylesheet" href="wwwroot/lib/poncho/dist/css/icono-arg.css">
 
+    <!-- FONT -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+
     <title>Lanús Unida</title>
 </head>
 
-<body>
+<body class="bg-principal">
     <!-- HEADER -->
     <div class="container">
-            <nav class="navbar navbar-light bg-light">
-                    <a class="navbar-brand" href="#">
-                        <img src="wwwroot/images/favicon_io/favicon-32x32.png" width="30" height="30" alt="">
-                    </a>
-                </nav>
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+                <img src="wwwroot/images/favicon_io/favicon-32x32.png" width="30" height="30" alt="">
+            </a>
+            <ul class="navbar-nav flex-row">
+                <li class="nav-item">
+                    <a class="nav-link p-1 mr-1" href="#" target="_blank" rel="noopener" aria-label="Facebook"><i
+                            class="fa fa-facebook fa-2x text-granate-light"></i></a>
+                </li>
+                <li class="nav-item"><a class="nav-link p-1 mr-1" href="#" target="_blank" rel="noopener"
+                        aria-label="Twitter"><i class="fa fa-twitter fa-2x text-granate-light"></i></a></li>
+                <li class="nav-item"><a class="nav-link p-1" href="#" target="_blank" rel="noopener"
+                        aria-label="Instagram"><i class="fa fa-instagram fa-2x text-granate-light"></i></a></li>
+                <!-- <li class="nav-item"><a class="nav-link p-1" href="#" target="_blank" rel="noopener"
+                        aria-label="Mail"><i class="fa fa-envelope fa-2x text-granate-light"></i></a></li> -->
+            </ul>
+        </nav>
         <div class="jumbotron mt-comun bg-granate text-white">
             <h1 class="display-4"><strong>Lanús</strong> unida</h1>
             <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
@@ -89,8 +104,23 @@
     <!-- MAPA -->
     <div class="container">
         <h2>Mapa de reclamos</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+        <a href="#"><img src="wwwroot/images/partido-lanus.jpg" class="img-fluid rounded img-thumbnail"
+                alt="Mapa de reclamos"></a>
     </div>
     <!-- END:MAPA -->
+    <!-- FOOTER -->
+    <footer class="footer mt-3 py-3 bg-white text-muted">
+        <div class="container">
+            <div class="d-flex justify-content-between">
+                <h3 class="p-3"><strong>Lánus</strong> unida</h3>
+                <a href="#" class="p-3" target="_blank" rel="noopener" aria-label="Mail" title="Contacto">
+                    <i class="fa fa-envelope-o fa-2x text-muted"></i>
+                </a>
+            </div>
+        </div>
+    </footer>
+    <!-- END:FOOTER -->
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
