@@ -1,3 +1,8 @@
+body {
+  font-family: Roboto, "Helvetica Neue", Arial;
+  font-size: 1rem;
+}
+
 /* ESPACIO */
 .mt-comun {
   margin-top: 2rem !important;
