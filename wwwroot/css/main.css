@@ -3,6 +3,12 @@
   font-size: 1rem;
 }
 
+.display-5 {
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
 /* ESPACIO */
 .mt-comun {
   margin-top: 2rem !important;
